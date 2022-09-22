@@ -21,7 +21,7 @@ if (isset($_SESSION['msg'])) {
     <div id="menuF">
         <ul id="menu">
             <li id="menuI"><h1 id="menuT">Crud MySql</h1></li>
-            <li id="menuI"><a id="voltar" href="../"><i class="fas fa-arrow-left"></i> Página Inicial</a></li>
+            <li id="menuI"><a id="voltar" href="../"><i class="fas fa-arrow-left"></i> Voltar </a></li>
         </ul>
     </div>
 </section>
