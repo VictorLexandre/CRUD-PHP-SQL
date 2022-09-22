@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+/*----------------------------------------------------------------------------------------------------------------------*/
+body{
+    background-color: #e4f0f3;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+/*----------------------------------------------------------------------------------------------------------------------*/
+#menuF{
+    background-color: #007bff;
+    width: 100%;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.4);
+}
+#menu{
+    list-style: none;
+}
+#menuI{
+    display: inline-block;
+    padding: 15px;
+    border-left: 3px solid #f2eded;
+    border-right: 3px solid #f2eded;
+    margin-left: 6%;
+}#menuI:last-child{
+     display: flex;
+     align-items: center;
+     margin-right: 6%;
+     margin-left: 0;
+     float: right;
+     height: 2.3cm;
+     border-left: none;
+     border-right: none;
+ }
+#menuT{
+    color: #f2eded;
+}
+#voltar{
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    width: 3cm;
+    padding: 10px;
+    border: 1px solid white;
+    border-radius: 20px;
+}#voltar:hover{
+     background-color: mediumslateblue;
+ }
+/*----------------------------------------------------------------------------------------------------------------------*/
+#formulario{
+    margin-top: 0.8cm;
+    width: 50vh;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.4);
+    border-radius: 10px;
+}
+#formT{
+    display: flex;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    height: 1.8cm;
+    background-color: #007bff;
+    border-radius: 10px 10px 0px 0px;
+    box-shadow: 0px 2px 8px 0px rgba(0,0,0,0.6);
+}
+#formI{
+    padding: 20px;
+}
+#formBtn{
+    width: 3cm;
+}
+#botoes{
+    display: flex;
+    justify-content: center;
+}
