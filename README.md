@@ -1,4 +1,4 @@
 # CRUD-PHP-SQL
-Trabalho CRUD: CREATE, READ, UPDATE, DELETE. Feito em HTLM, CSS e PHP
+Trabalho CRUD: CREATE, READ, UPDATE, DELETE. Feito em HTML, CSS e PHP
 BANCO SQL: MySQL Workbench.
 Formato: MVC.
